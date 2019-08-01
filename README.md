@@ -1,3 +1,3 @@
 # Belajar
-Repo Belajar
-Tempat galuh belajar ngoding
+# Repo Belajar
+# Tempat galuh belajar ngoding
